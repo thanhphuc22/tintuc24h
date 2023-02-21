@@ -1,0 +1,1008 @@
+# Copyright (C) 2022 JNews Paywall
+# This file is distributed under the same license as the JNews Paywall package.
+msgid ""
+msgstr ""
+"Project-Id-Version: JNews Paywall\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Econdig: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Jegtheme <support@jeghteme.com>\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: JNews Paywall\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;jnews_print_translation;jnews_return_translation\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wordpress/jnews-paywall/helper.php:19
+msgid "-Select Page-"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/class-ajax-handler.php:74
+msgid "This is not a product"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/class-ajax-handler.php:82
+msgid "added"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/class-ajax-handler.php:88
+msgid "Error adding product"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/class-ajax-handler.php:145
+msgid "cancel subscription"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/class-ajax-handler.php:175
+msgid "paywall ajax sent"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/class-ajax-handler.php:197
+msgid "delete source"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/class-ajax-handler.php:219
+msgid "default source"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/class-init.php:100
+msgid "Login to purchase or access your purchased package"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/class-init.php:101
+msgid "Register to purchase or access your purchased package"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:54
+msgid "Username"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:55
+msgid "Full Name"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:56
+msgid "Email"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:57, wordpress/jnews-paywall/template/admin-menu.php:159, wordpress/jnews-paywall/template/admin-menu.php:172, wordpress/jnews-paywall/template/frontend-status-1.php:27
+msgid "Subscription Status"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:58
+msgid "Times Left"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:59
+msgid "Expiration Date"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:60
+msgid "Unlock Remaining"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:83, wordpress/jnews-paywall/template/admin-menu.php:78
+msgid "Not Subscribe"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:74
+msgid "Subscribed"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:75, wordpress/jnews-paywall/template/admin-menu.php:160, wordpress/jnews-paywall/template/frontend-status-1.php:28, wordpress/jnews-paywall/class/element/class-jnews-element-paywall-view.php:97
+msgid "days"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:75, wordpress/jnews-paywall/template/admin-menu.php:160, wordpress/jnews-paywall/template/frontend-status-1.php:28
+msgid "hours"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:115
+msgid "&lsaquo;"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:116
+msgid "&rsaquo;"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:122
+msgid "Post Paywall Users Status"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:123
+msgid "Here you can monitor your Post Paywall Subscriber latest status."
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:168, wordpress/jnews-paywall/template/frontend-status-1.php:36
+msgid "You are not subscribed"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:158, wordpress/jnews-paywall/template/frontend-status-1.php:26
+msgid "Subscription ID"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:159, wordpress/jnews-paywall/template/frontend-status-1.php:27
+msgid "ACTIVE"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:160, wordpress/jnews-paywall/template/frontend-status-1.php:28
+msgid "Remaining Time"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:161, wordpress/jnews-paywall/template/frontend-status-1.php:29
+msgid "Next Payment Due"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:162, wordpress/jnews-paywall/template/frontend-status-1.php:30
+msgid "Payment Type"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:165, wordpress/jnews-paywall/template/frontend-status-1.php:33
+msgid "Cancel Subscription"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:199, wordpress/jnews-paywall/template/frontend-status-2.php:20
+msgid "You don't have any post unlocked"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:204, wordpress/jnews-paywall/class/status/class-frontend-status.php:61
+msgid "Unlocked Posts"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:206, wordpress/jnews-paywall/template/frontend-status-2.php:27
+msgid "Quotas Left"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:206, wordpress/jnews-paywall/template/frontend-status-2.php:27
+msgid "unlocks"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:207, wordpress/jnews-paywall/template/frontend-status-2.php:28
+msgid "Posts Owned"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:207, wordpress/jnews-paywall/template/frontend-status-2.php:28, wordpress/jnews-paywall/class/element/class-jnews-element-paywall-view.php:58
+msgid "posts"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/admin-menu.php:212, wordpress/jnews-paywall/template/frontend-status-2.php:33
+msgid "Unlocked Posts Collection"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/frontend-status-1.php:36, wordpress/jnews-paywall/class/truncater/class-truncater.php:261
+msgid "Subscribe Now"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/payment-method-add.php:61
+msgid "New payment methods can only be added during checkout. Please contact us if you require assistance."
+msgstr ""
+
+#: wordpress/jnews-paywall/template/payment-method-add.php:55, wordpress/jnews-paywall/template/payment-method-add.php:55
+msgid "Add payment method"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/payment-method.php:85
+msgid "No saved methods found."
+msgstr ""
+
+#: wordpress/jnews-paywall/template/payment-method.php:44
+msgid "Default source will be used for subscription payment."
+msgstr ""
+
+#: wordpress/jnews-paywall/template/payment-method.php:71
+msgid "Delete"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/payment-method.php:73
+msgid "Make Default"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/payment-method.php:64
+msgid "%1$s ending in %2$s"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/payment-method.php:89
+msgid "Add new method"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/popup-form.php:11
+msgid "Are you sure want to unlock this post?"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/popup-form.php:12
+msgid "Unlock left"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/popup-form.php:13, wordpress/jnews-paywall/template/popup-form.php:26
+msgid "Yes"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/popup-form.php:14, wordpress/jnews-paywall/template/popup-form.php:27
+msgid "No"
+msgstr ""
+
+#: wordpress/jnews-paywall/template/popup-form.php:25
+msgid "Are you sure want to cancel subscription?"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/class-customizer.php:69
+msgid "JNews : Paywall Option"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/class-customizer.php:70
+msgid "Paywall Options"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/class-customizer.php:82
+msgid "General Setting"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/element/class-jnews-element-paywall-option.php:19
+msgid "JNews - Post Paywall"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/element/class-jnews-element-paywall-option.php:23
+msgid "JNews - Element"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/element/class-jnews-element-paywall-option.php:31
+msgid "Post Subscription"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/element/class-jnews-element-paywall-option.php:32
+msgid "Select post subscription package."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/element/class-jnews-element-paywall-option.php:40
+msgid "Button Text"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/element/class-jnews-element-paywall-option.php:41
+msgid "Change the subscribe button text."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/element/class-jnews-element-paywall-option.php:48
+msgid "Show Description"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/element/class-jnews-element-paywall-option.php:49
+msgid "Show product short description."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/element/class-jnews-element-paywall-view.php:32
+msgid "Buy"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/element/class-jnews-element-paywall-view.php:85
+msgid "No Content Available"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/element/class-jnews-element-paywall-view.php:101
+msgid "weeks"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/element/class-jnews-element-paywall-view.php:105
+msgid "months"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/element/class-jnews-element-paywall-view.php:109
+msgid "years"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/class-jpw-gateways.php:228
+msgid "Paywall Payment Methods"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/metabox/class-metabox.php:43
+msgid "JNews : Paywall Single Post"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/metabox/class-metabox.php:64
+msgid "Paywall General Setting"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/metabox/class-metabox.php:69
+msgid "Paywall Preview Setting"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/metabox/class-metabox.php:98
+msgid "Set as Free Post"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/metabox/class-metabox.php:99
+msgid "Check this option to set this post as free."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/metabox/class-metabox.php:107
+msgid "Override Paragraph Limit"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/metabox/class-metabox.php:108
+msgid "Check this option to override this post paragraph limit."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/metabox/class-metabox.php:90
+msgid "Set as Premium Post"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/metabox/class-metabox.php:91
+msgid "Check this option to set this post as premium."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/metabox/class-metabox.php:123, wordpress/jnews-paywall/class/customizer/options/customizer-option.php:28
+msgid "Paragraph Limit"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/metabox/class-metabox.php:124
+msgid "Total paragraphs that will be showed for free user."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/metabox/class-metabox.php:155
+msgid "Enable Content Preview"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/metabox/class-metabox.php:156
+msgid "Check this option to enable post preview."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/metabox/class-metabox.php:164
+msgid "Content Preview"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/metabox/class-metabox.php:165
+msgid "Text preview that will be showed for free user."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/metabox/class-metabox.php:180
+msgid "Enable Video Preview"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/metabox/class-metabox.php:181
+msgid "Check this option to enable video preview."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/metabox/class-metabox.php:188
+msgid "Video Preview URL"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/metabox/class-metabox.php:189
+msgid "Please enter the video preview url, that will be shown to free users."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/status/class-frontend-status.php:55
+msgid "Subscription"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/truncater/class-truncater.php:259
+msgid "Subscribe"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/truncater/class-truncater.php:260
+msgid "Gain access to all our Premium contents. <br/><strong>More than 100+ articles.</strong>"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/truncater/class-truncater.php:263
+msgid "Buy Article"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/truncater/class-truncater.php:264
+msgid "Unlock this article and gain permanent access to read it."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/truncater/class-truncater.php:265
+msgid "Unlock Now"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/truncater/class-truncater.php:267
+msgid "Support authors and subscribe to content"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/truncater/class-truncater.php:268
+msgid "This is premium stuff. Subscribe to read the entire article."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/truncater/class-truncater.php:312
+msgid "<a href=\"%s\">Login</a> if you have purchased"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/woocommerce/class-order.php:253
+msgid ""
+"<span class=\"jnews-notice-heading\">JNews Paywall</span>\n"
+"                            <span style=\"display: block;\">Please install and active WooCommerce plugin. Click the button below to manage your plugin :</span>\n"
+"                            <span class=\"jnews-notice-button\">\n"
+"                                <a href=\"%s\" class=\"button-primary\">Manage plugin</a>\n"
+"                            </span>\n"
+"                            "
+msgstr ""
+
+#: wordpress/jnews-paywall/class/woocommerce/class-product.php:98, wordpress/jnews-paywall/class/woocommerce/class-product.php:239
+msgid "JNews Post Subscribe"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/woocommerce/class-product.php:99
+msgid "Enable this option to use Product Subscription as JNews Post Subscribe"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/woocommerce/class-product.php:106, wordpress/jnews-paywall/class/woocommerce/options/subscribe-option.php:41
+msgid "Featured Subscription"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/woocommerce/class-product.php:107, wordpress/jnews-paywall/class/woocommerce/options/subscribe-option.php:42
+msgid "Highlight this post subscription (please choose only 1 product for featured subscription)"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/woocommerce/class-product.php:240
+msgid "JNews Post Unlock"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:12
+msgid "Content Restriction"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:20
+msgid "Block All Posts"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:21
+msgid "Block all posts for free user. If enabled, this option will override premium option in individual post."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:29
+msgid "Choose how much paragraphs to show for non-subscriber users."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:50
+msgid "Hide Comment"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:51
+msgid "Hide comments for non-subscriber users."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:65
+msgid "Advertisement Option"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:73
+msgid "Hide ads for subscriber"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:74
+msgid "Remove all JNews ads from being displayed for user who has an active subscription."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:82
+msgid "Hide ads for unlocked posts"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:83
+msgid "Remove all JNews ads from being displayed for posts that has been unlocked."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:90
+msgid "Article Buttons"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:98
+msgid "Show Header Text"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:99
+msgid "Show header text above the button."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:106
+msgid "Override Header Text"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:107
+msgid "If enabled, this option will override all text from header text above the button on truncated articles and the text will not translatable."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:122
+msgid "Header Title"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:142
+msgid "Header Description"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:162
+msgid "Show Button"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:163
+msgid "Choose which button will be showed on truncated articles"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:176
+msgid "Subscribe Redirect"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:177
+msgid "Choose where your non-subscriber will be redirected when click subscribe button on article"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:193
+msgid "Unlock Redirect"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:194
+msgid "Choose where your user will be redirected if they dont have unlock quota"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:210
+msgid "Override Subscribe Button"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:211
+msgid "If enabled, this option will override all text from subscribe button on truncated articles and the text will not translatable."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:226
+msgid "Subscribe Title"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:246
+msgid "Subscribe Description"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:266
+msgid "Subscribe Button Text"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:286
+msgid "Override Unlock Button"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:287
+msgid "If enabled, this option will override all text from unlock button on truncated articles and the text will not translatable."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:303
+msgid "Unlock Title"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:323
+msgid "Unlock Description"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/customizer/options/customizer-option.php:343
+msgid "Unlock Button Text"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/paypal/class-jpw-paypal.php:45
+msgid "Paypal Recurring Subscription settings for JNews Product"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/paypal/class-jpw-paypal.php:47
+msgid "Proceed to Paypal"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/paypal/class-jpw-paypal.php:59
+msgid "Paypal Subscription"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/paypal/class-jpw-paypal.php:63
+msgid "You will be redirected to paypal for subscription billing agreement."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/paypal/class-jpw-paypal.php:61
+msgid "(SANDBOX MODE). You will be redirected to paypal for subscription billing agreement."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/paypal/class-jpw-paypal.php:159
+msgctxt "timezone date format"
+msgid "Y-m-d H:i:s"
+msgstr ""
+
+#. translators: %s: UTC time.
+#: wordpress/jnews-paywall/class/gateways/paypal/class-jpw-paypal.php:164
+msgid "Universal time is %s."
+msgstr ""
+
+#. translators: %s: Local time.
+#: wordpress/jnews-paywall/class/gateways/paypal/class-jpw-paypal.php:173
+msgid "Local time is %s."
+msgstr ""
+
+#. translators: %s: Payment time.
+#: wordpress/jnews-paywall/class/gateways/paypal/class-jpw-paypal.php:183
+msgid "Payment time is %s."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/paypal/class-jpw-paypal.php:203
+msgid "Sandbox Mode"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/paypal/class-jpw-paypal.php:205
+msgid "Are you using Paypal APP Sandbox? Check this option if you using Sandbox APP credentials."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/paypal/class-jpw-paypal.php:209
+msgid "PayPal APP Client ID"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/paypal/class-jpw-paypal.php:211
+msgid "Your PayPal app Client ID."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/paypal/class-jpw-paypal.php:215
+msgid "PayPal APP Client Secret"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/paypal/class-jpw-paypal.php:217
+msgid "Your PayPal app Client Secret."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/paypal/class-jpw-paypal.php:221
+msgid "Receiver email"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/paypal/class-jpw-paypal.php:223
+msgid "Input your main receiver email for your PayPal account here. This is used to validate IPN requests. You must add the following webhook endpoint <strong style=\"background-color:#ddd;\">&nbsp;%s&nbsp;</strong> to your <a href=\"https://www.paypal.com/cgi-bin/customerprofileweb?cmd=_profile-ipn-notify\" target=\"_blank\">Instant Payment Notifications settings</a>"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/paypal/class-jpw-paypal.php:228
+msgid "Payment Timezone"
+msgstr ""
+
+#. translators: %s: Timezone Information.
+#: wordpress/jnews-paywall/class/gateways/paypal/class-jpw-paypal.php:232
+msgid "Choose the Time zone to match the one set in your PayPal account. (PayPal > My Profile > My settings > Time zone) %s"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/paypal/class-paypal-api.php:111, wordpress/jnews-paywall/class/gateways/stripe/class-stripe-api.php:581
+msgid "You still have an active subscription"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe-sepa.php:27
+msgid "Stripe Recurring Subscription settings for JNews Product"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe-sepa.php:28
+msgid "All other general Stripe Subscription settings can be adjusted <a href=\"%s\">here</a>."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe-sepa.php:29, wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe.php:30
+msgid "Place Order"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe-sepa.php:38
+msgid "Stripe Subscription (SEPA Direct Debit)"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe-sepa.php:46
+msgid "Pay with your SEPA Direct Debit via Stripe."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe-sepa.php:42
+msgid "(TEST MODE) Pay with your SEPA Direct Debit via Stripe. In test mode, you can use the card number DE89370400440532013000 or check the <a href=\"%s\" target=\"_blank\">Testing Stripe documentation</a> for more card numbers."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe-sepa.php:76
+msgid "Enable/Disable"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe-sepa.php:77
+msgid "Enable Stripe Subscribe (SEPA Direct Debit)"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe-sepa.php:148
+msgid "IBAN."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe-sepa.php:162
+msgid ""
+"By providing your IBAN, you are authorizing %1$s and Stripe,\n"
+"			our payment service provider, to send instructions to your bank to debit\n"
+"			your account in accordance with those instructions. Subsequent payments are\n"
+"			entitled to a refund from your bank under the terms and conditions of your\n"
+"			agreement with your bank. A refund must be claimed within eight weeks\n"
+"			starting from the date on which your account was debited."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe.php:29
+msgid "Stripe Payment settings for JNews Product"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe.php:43
+msgid "Stripe (Credit Card)"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe.php:52
+msgid "Pay with your credit card via Stripe."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe.php:48
+msgid "(TEST MODE) Pay with your credit card via Stripe. In test mode, you can use the card number 4242424242424242 with any CVC and a valid expiration date or check the <a href=\"%s\" target=\"_blank\">Testing Stripe documentation</a> for more card numbers."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe.php:92
+msgid "Test Mode"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe.php:94
+msgid "Are you using Stripe Test Mode? Check this option if you using Stripe Test Mode."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe.php:98
+msgid "Test Publishable Key"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe.php:100
+msgid "Your Test Mode Publishable Key."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe.php:104
+msgid "Test Secret Key"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe.php:106
+msgid "Your Test Mode Secret Key."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe.php:110
+msgid "Live Publishable Key"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe.php:112
+msgid "Your Live Mode Publishable Key."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe.php:116
+msgid "Live Secret Key"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe.php:118
+msgid "Your Live Mode Secret Key."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe.php:122
+msgid "Webhook Key"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe.php:124
+msgid "Your Webhook Key. You must add the following webhook endpoint <strong style=\"background-color:#ddd;\">&nbsp;%s&nbsp;</strong> to your <a href=\"https://dashboard.stripe.com/account/webhooks\" target=\"_blank\">Stripe account settings</a>."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe.php:128
+msgid "Statement Descriptor"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe.php:130
+msgid "Your Statement Descriptor. Statement descriptors are limited to 22 characters, cannot use the special characters >, <, \", \, ', *, and must not consist solely of numbers. This will appear on your customer's statement in capital letters."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe.php:332
+msgid "%s ending in %s"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe.php:337
+msgid "Use a new payment method."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe.php:351
+msgid "Save payment information to my account for future purchases."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe.php:357
+msgid "Your card will be saved for future subscription payment."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe.php:383, wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe.php:435
+msgid "Payment failed. Please try again later or use another card"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe.php:413
+msgid "Invalid payment gateway"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-jpw-stripe.php:439
+msgid "Stripe charge awaiting payment: %s."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-api.php:792, wordpress/jnews-paywall/class/gateways/stripe/class-stripe-api.php:815, wordpress/jnews-paywall/class/gateways/stripe/class-stripe-api.php:837
+msgid "Paywall Customer, Name: %s"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-api.php:899
+msgid "%s - Unlock %s"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-api.php:917
+msgid "%s - Subscription %s"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-helper.php:18
+msgid "Please try to re-input your card or use another card"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-helper.php:23
+msgid "Unable to process your payment, please try again later"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-helper.php:40
+msgid "The card number is not a valid credit card number."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-helper.php:41
+msgid "The card's expiration month is invalid."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-helper.php:42
+msgid "The card's expiration year is invalid."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-helper.php:43
+msgid "The card's security code is invalid."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-helper.php:44
+msgid "The card number is incorrect."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-helper.php:45
+msgid "The card number is incomplete."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-helper.php:46
+msgid "The card's security code is incomplete."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-helper.php:47
+msgid "The card's expiration date is incomplete."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-helper.php:48
+msgid "The card has expired."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-helper.php:49
+msgid "The card's security code is incorrect."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-helper.php:50
+msgid "The card's zip code failed validation."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-helper.php:51
+msgid "The card's expiration year is in the past"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-helper.php:52
+msgid "The card was declined."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-helper.php:53
+msgid "There is no card on a customer that is being charged."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-helper.php:54
+msgid "An error occurred while processing the card."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-helper.php:55
+msgid "Unable to process this payment, please try again or use alternative method."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-helper.php:56
+msgid "The billing country is not accepted by SOFORT. Please try another country."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-helper.php:57
+msgid "Invalid email address, please correct and try again."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-helper.php:58
+msgid "We are unable to authenticate your payment method. Please choose a different payment method and try again."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-helper.php:59
+msgid "Please make sure you have inputted billing detail required fields."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-webhook.php:109
+msgid "Could not find order id in metadata"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-webhook.php:117
+msgid "Could not find order id: $d"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-webhook.php:124
+msgid "Could not find user via order id %d"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-webhook.php:150, wordpress/jnews-paywall/class/gateways/stripe/class-stripe-webhook.php:185
+msgid "Could not find subscription %d in user %s"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-webhook.php:161
+msgid "Subscription for %s by %s has been canceled"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-webhook.php:204
+msgid "Subscription for %s by %s has been activated"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-webhook.php:236
+msgid "Order by %s has completed"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-webhook.php:263
+msgid "Order by %s has failed"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/gateways/stripe/class-stripe-webhook.php:296
+msgid "Payment for order by %s has refunded"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/woocommerce/options/subscribe-option.php:7
+msgid "Billing Time"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/woocommerce/options/subscribe-option.php:8
+msgid "Choose the billing interval, and period"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/woocommerce/options/subscribe-option.php:15
+msgid "every"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/woocommerce/options/subscribe-option.php:16
+msgid "every 2nd"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/woocommerce/options/subscribe-option.php:17
+msgid "every 3rd"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/woocommerce/options/subscribe-option.php:18
+msgid "every 4th"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/woocommerce/options/subscribe-option.php:19
+msgid "every 5th"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/woocommerce/options/subscribe-option.php:20
+msgid "every 6th"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/woocommerce/options/subscribe-option.php:27
+msgid "Days"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/woocommerce/options/subscribe-option.php:28
+msgid "Weeks"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/woocommerce/options/subscribe-option.php:29
+msgid "Months"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/woocommerce/options/subscribe-option.php:30
+msgid "Years"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/woocommerce/options/unlock-option.php:9
+msgid "Number of Post Unlock"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/woocommerce/options/unlock-option.php:10
+msgid "The number of posts that the user could buy/unlock."
+msgstr ""
+
+#: wordpress/jnews-paywall/class/woocommerce/options/unlock-option.php:24
+msgid "Featured Unlock"
+msgstr ""
+
+#: wordpress/jnews-paywall/class/woocommerce/options/unlock-option.php:25
+msgid "Highlight this post unlock (please choose only 1 product for featured post unlock)"
+msgstr ""

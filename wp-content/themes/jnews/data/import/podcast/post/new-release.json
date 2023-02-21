@@ -1,0 +1,125 @@
+[
+    {
+        "id": "1AV3t0r",
+        "elType": "section",
+        "settings": [],
+        "elements": [{
+            "id": "IPVw6Zc",
+            "elType": "column",
+            "settings": { "_column_size": 100 },
+            "elements": [{
+                "id": "MzZcFes",
+                "elType": "widget",
+                "settings": {
+                    "compatible_column_notice": "",
+                    "ads_type": "image",
+                    "ads_image": {
+                        "url": "{{image:ad_1140x160:id:full}}",
+                        "id": "{{image:ad_1140x160:id:id}}"
+                    },
+                    "ads_image_tablet": {
+                        "url": "{{image:ad_1140x160:id:url:full}}",
+                        "id": "{{image:ad_1140x160:id:id}}"
+                    },
+                    "ads_image_phone": {
+                        "url": "{{image:ad_1140x160:id:url:full}}",
+                        "id": "{{image:ad_1140x160:id:id}}"
+                    }
+                },
+                "elements": [],
+                "widgetType": "jnews_element_ads_elementor"
+            }],
+            "isInner": false
+        }],
+        "isInner": false
+    },
+    {
+        "id": "J93fG3g",
+        "elType": "section",
+        "settings": [],
+        "elements": [{
+                "id": "65qWK5F",
+                "elType": "column",
+                "settings": { "_column_size": 66 },
+                "elements": [{
+                        "id": "jaWi51G",
+                        "elType": "widget",
+                        "settings": {
+                            "compatible_column_notice": "",
+                            "header_type": "heading_8",
+                            "number_post": { "unit": "px", "size": 2 },
+                            "post_offset": { "unit": "px", "size": 2 },
+                            "first_title": "Featured new releases"
+                        },
+                        "elements": [],
+                        "widgetType": "jnews_podcast_blockpodcast1_elementor"
+                    },
+                    {
+                        "id": "7eIQeqR",
+                        "elType": "widget",
+                        "settings": {
+                            "compatible_column_notice": "",
+                            "header_type": "heading_8",
+                            "number_post": { "unit": "px", "size": 3 },
+                            "post_offset": { "unit": "px", "size": 0 },
+                            "excerpt_length": { "unit": "px", "size": 20 },
+                            "pagination_mode": "loadmore",
+                            "pagination_number_post": { "unit": "px", "size": 3 },
+                            "podcast_base_on": "id_desc",
+                            "first_title": "New Releases"
+                        },
+                        "elements": [],
+                        "widgetType": "jnews_podcast_blockpodcast3_elementor"
+                    }
+                ],
+                "isInner": false
+            },
+            {
+                "id": "Z6mx0kc",
+                "elType": "column",
+                "settings": { "_column_size": 33 },
+                "elements": [{
+                        "id": "vfAN4FI",
+                        "elType": "widget",
+                        "settings": {
+                            "compatible_column_notice": "",
+                            "header_type": "heading_8",
+                            "number_category": { "unit": "px", "size": 6 },
+                            "category_offset": { "unit": "px", "size": 0 },
+                            "first_title": "Browse Category",
+                            "column_width": "4"
+                        },
+                        "elements": [],
+                        "widgetType": "jnews_podcast_category_elementor"
+                    },
+                    {
+                        "id": "gHLIofe",
+                        "elType": "widget",
+                        "settings": {
+                            "compatible_column_notice": "",
+                            "ads_type": "image",
+                            "ads_image": {
+                                "url": "{{image:ad_345x345:url:full}}",
+                                "id": "{{image:ad_345x345:id}}"
+                            },
+                            "ads_image_tablet": {
+                                "url": "{{image:ad_345x345:url:full}}",
+                                "id": "{{image:ad_345x345:id}}"
+                            },
+                            "ads_image_phone": {
+                                "url": "{{image:ad_345x345:url:full}}",
+                                "id": "{{image:ad_345x345:id}}"
+                            },
+                            "ads_image_link": "{{post:pricing:url}}",
+                            "column_width": "4"
+                        },
+                        "elements": [],
+                        "widgetType": "jnews_element_ads_elementor"
+                    }
+                ],
+                "isInner": false
+            }
+        ],
+        "isInner": false
+    }
+]

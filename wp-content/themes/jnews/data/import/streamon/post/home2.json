@@ -1,0 +1,400 @@
+[
+  {
+    "id": "9253bfc",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "9fb9903",
+        "elType": "column",
+        "settings": { "_column_size": 100, "_inline_size": null },
+        "elements": [
+          {
+            "id": "cd847d8",
+            "elType": "widget",
+            "settings": {
+              "wp": {
+                "show_nav": "1",
+                "number_item": "3",
+                "margin": "20",
+                "enable_autoplay": "0",
+                "autoplay_delay": "3000",
+                "date_format": "default",
+                "date_format_custom": "Y/m/d",
+                "force_normal_image_load": "1",
+                "data_type": "custom",
+                "user_data": "1",
+                "header_icon": "",
+                "first_title": "",
+                "section": "",
+                "second_title": "",
+                "url": "",
+                "section_url": "",
+                "follow_button": "0",
+                "follow_user": "1",
+                "video_only": "1",
+                "bp_member_only": "0",
+                "number_post": "5",
+                "post_offset": "1",
+                "unique_content": "disable",
+                "include_post": "{{post:how-to-get-around-rome-on-the-cheap-in-2019:id}},{{post:glastonbury-introduces-new-campsite-to-reduce-waste:id}},{{post:netflixs-the-witcher-season-1-review-roundup:id}},{{post:life-in-paris-one-month-down-in-2019:id}}",
+                "exclude_post": "",
+                "include_category": "",
+                "exclude_category": "",
+                "include_author": "",
+                "include_tag": "",
+                "exclude_tag": "",
+                "sort_by": "latest",
+                "post_meta_style": "style_1",
+                "author_avatar": "1",
+                "el_id": "",
+                "el_class": "",
+                "scheme": "normal",
+                "column_width": "auto"
+              }
+            },
+            "elements": [],
+            "widgetType": "wp-widget-jnews_module_video_carousel2"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "aa939f4",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "23f1ee3",
+        "elType": "column",
+        "settings": { "_column_size": 100, "_inline_size": null },
+        "elements": [
+          {
+            "id": "c114d69",
+            "elType": "widget",
+            "settings": {
+              "wp": {
+                "header_icon": "",
+                "first_title": "Story",
+                "second_title": "",
+                "url": "",
+                "header_type": "heading_8",
+                "header_align": "left",
+                "header_background": "",
+                "header_secondary_background": "",
+                "header_text_color": "",
+                "header_line_color": "",
+                "header_accent_color": "",
+                "el_id": "",
+                "el_class": "",
+                "scheme": "normal",
+                "column_width": "auto"
+              }
+            },
+            "elements": [],
+            "widgetType": "wp-widget-jnews_module_element_header"
+          },
+          {
+            "id": "18b29ca",
+            "elType": "widget",
+            "settings": {
+              "item_type": "potrait",
+              "show_overlay": "yes",
+              "show_title": "yes",
+              "potrait_style": "style_2",
+              "number_post": { "unit": "px", "size": 25, "sizes": [] }
+            },
+            "elements": [],
+            "widgetType": "jnews_element_webstories_elementor"
+          },
+          {
+            "id": "696e106",
+            "elType": "widget",
+            "settings": {
+              "first_title": "Recommended",
+              "header_type": "heading_8"
+            },
+            "elements": [],
+            "widgetType": "jnews_element_header_elementor"
+          },
+          {
+            "id": "df63eb5",
+            "elType": "widget",
+            "settings": {
+              "force_normal_image_load": "yes",
+              "post_offset": 6,
+              "unique_content": "unique1",
+              "pagination_mode": "loadmore"
+            },
+            "elements": [],
+            "widgetType": "jnews_video_block4_elementor"
+          },
+          {
+            "id": "f57815a",
+            "elType": "widget",
+            "settings": {
+              "wp": {
+                "header_icon": "",
+                "first_title": "Popular Creators",
+                "second_title": "",
+                "url": "",
+                "header_type": "heading_8",
+                "header_align": "center",
+                "header_background": "",
+                "header_secondary_background": "",
+                "header_text_color": "",
+                "header_line_color": "",
+                "header_accent_color": "",
+                "el_id": "",
+                "el_class": "",
+                "scheme": "normal",
+                "column_width": "auto"
+              }
+            },
+            "elements": [],
+            "widgetType": "wp-widget-jnews_module_element_header"
+          },
+          {
+            "id": "4107932",
+            "elType": "widget",
+            "settings": {
+              "userlist_style": "style-3",
+              "userlist_block3": "jeg_6_block",
+              "userlist_desc": "yes",
+              "userlist_subscriber": "yes",
+              "userlist_social": "yes",
+              "userlist_align": "jeg_user_align_center",
+              "title_color": "#02182B",
+              "number_user": { "unit": "px", "size": 6, "sizes": [] }
+            },
+            "elements": [],
+            "widgetType": "jnews_element_userlist_elementor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "082748f",
+    "elType": "section",
+    "settings": {
+      "background_background": "classic",
+      "background_color": "#F5F1FE"
+    },
+    "elements": [
+      {
+        "id": "4175cb6",
+        "elType": "column",
+        "settings": { "_column_size": 100, "_inline_size": null },
+        "elements": [
+          {
+            "id": "3c439c2",
+            "elType": "widget",
+            "settings": {
+              "first_title": "Trending Videos",
+              "header_type": "heading_8",
+              "header_align": "center"
+            },
+            "elements": [],
+            "widgetType": "jnews_element_header_elementor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e73b4b6",
+    "elType": "section",
+    "settings": {
+      "structure": "20",
+      "background_background": "classic",
+      "background_color": "#F5F1FE"
+    },
+    "elements": [
+      {
+        "id": "f8bf339",
+        "elType": "column",
+        "settings": { "_column_size": 50, "_inline_size": null },
+        "elements": [
+          {
+            "id": "fc58c5d",
+            "elType": "widget",
+            "settings": {
+              "post_meta_style": "style_1",
+              "unique_content": "unique1",
+              "include_post": "{{post:coachella-coming-to-celebrate-20-years-in-the-desert:id}}",
+              "scheme": "normal",
+              "column_width": "4"
+            },
+            "elements": [],
+            "widgetType": "jnews_video_block2_elementor"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "e8c5bbe",
+        "elType": "column",
+        "settings": { "_column_size": 50, "_inline_size": null },
+        "elements": [
+          {
+            "id": "5e44591",
+            "elType": "widget",
+            "settings": {
+              "number_post": { "unit": "px", "size": 4, "sizes": [] },
+              "unique_content": "unique1",
+              "include_post": "{{post:another-director-leaves-the-uncharted-movie:id}},{{post:dialog-dini-hari-tentang-rumahku-official-music-video:id}},{{post:english-soccer-is-hopelessly-addicted-to-jose-mourinho:id}},{{post:will-destinations-ever-rule-the-world:id}}",
+              "column_width": "8"
+            },
+            "elements": [],
+            "widgetType": "jnews_video_block2_elementor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "81cd29c",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "d379c0d",
+        "elType": "column",
+        "settings": { "_column_size": 100, "_inline_size": null },
+        "elements": [
+          {
+            "id": "56306d3",
+            "elType": "widget",
+            "settings": { "space": { "unit": "px", "size": 40, "sizes": [] } },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "0349e44",
+            "elType": "widget",
+            "settings": {
+              "ads_type": "image",
+              "ads_image": {
+                  "url": "{{image:ad_1140x160:url:full}}",
+                  "id": "{{image:ad_1140x160:id}}"
+              },
+                  "ads_image_tablet": {
+                  "url": "{{image:ad_1140x160:url:full}}",
+                  "id": "{{image:ad_1140x160:id}}"
+              },
+                  "ads_image_phone": {
+                  "url": "{{image:ad_1140x160:url:full}}",
+                  "id": "{{image:ad_1140x160:id}}"
+              }
+            },
+            "elements": [],
+            "widgetType": "jnews_element_ads_elementor"
+          },
+          {
+            "id": "8ea1bc8",
+            "elType": "widget",
+            "settings": {
+              "wp": {
+                "header_icon": "",
+                "first_title": "Latest Videos",
+                "second_title": "",
+                "url": "",
+                "header_type": "heading_8",
+                "header_align": "center",
+                "header_background": "",
+                "header_secondary_background": "",
+                "header_text_color": "",
+                "header_line_color": "",
+                "header_accent_color": "",
+                "el_id": "",
+                "el_class": "",
+                "scheme": "normal",
+                "column_width": "auto"
+              }
+            },
+            "elements": [],
+            "widgetType": "wp-widget-jnews_module_element_header"
+          },
+          {
+            "id": "b5e438c",
+            "elType": "widget",
+            "settings": {
+              "wp": {
+                "video_duration": "1",
+                "post_meta_style": "style_2",
+                "author_avatar": "0",
+                "more_menu": "1",
+                "force_normal_image_load": "0",
+                "data_type": "custom",
+                "user_data": "1",
+                "header_icon": "",
+                "first_title": "",
+                "section": "",
+                "second_title": "",
+                "url": "",
+                "section_url": "",
+                "follow_button": "0",
+                "follow_user": "1",
+                "video_only": "1",
+                "bp_member_only": "0",
+                "number_post": "8",
+                "post_offset": "0",
+                "unique_content": "unique1",
+                "include_post": "",
+                "exclude_post": "",
+                "include_category": "",
+                "exclude_category": "",
+                "include_author": "",
+                "include_tag": "",
+                "exclude_tag": "",
+                "sort_by": "latest",
+                "pagination_mode": "loadmore",
+                "pagination_nextprev_showtext": "0",
+                "nav_position_top": "0",
+                "pagination_number_post": "8",
+                "pagination_scroll_limit": "0",
+                "el_id": "",
+                "el_class": "",
+                "scheme": "normal",
+                "column_width": "auto",
+                "title_color": "",
+                "accent_color": "",
+                "alt_color": "",
+                "excerpt_color": ""
+              }
+            },
+            "elements": [],
+            "widgetType": "wp-widget-jnews_module_video_block4"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "9a729f3",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "bf4734e",
+        "elType": "column",
+        "settings": { "_column_size": 100, "_inline_size": null },
+        "elements": [],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

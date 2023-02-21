@@ -1,0 +1,55 @@
+# Copyright (C) 2022 JNews Front Translation
+# This file is distributed under the same license as the JNews Front Translation package.
+msgid ""
+msgstr ""
+"Project-Id-Version: JNews Front Translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Econdig: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Jegtheme <support@jeghteme.com>\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: JNews Front Translation\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;jnews_print_translation;jnews_return_translation\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wordpress/jnews-front-translation/class.jnews-translation-option.php:71, wordpress/jnews-front-translation/class.jnews-translation-option.php:81
+msgid "Frontend Translation Language"
+msgstr ""
+
+#: wordpress/jnews-front-translation/class.jnews-translation-option.php:102, wordpress/jnews-front-translation/class.jnews-translation-option.php:103
+msgid "Translate Frontend"
+msgstr ""
+
+#: wordpress/jnews-front-translation/options/translation-setting.php:23, wordpress/jnews-front-translation/options/translation-setting.php:8
+msgid "Translation Setting"
+msgstr ""
+
+#: wordpress/jnews-front-translation/options/translation-setting.php:31
+msgid "Activate License"
+msgstr ""
+
+#: wordpress/jnews-front-translation/options/translation-setting.php:34
+msgid ""
+"<span style=\"display: block;\">Please activate your copy of JNews to unlock this feature. Click button bellow to activate:</span>\n"
+"						<span class=\"jnews-notice-button\">\n"
+"							<a href=\"%s\" class=\"button-primary jnews_customizer_activate_license\">Activate Now</a>\n"
+"						</span>"
+msgstr ""
+
+#: wordpress/jnews-front-translation/options/translation-setting.php:15
+msgid "Enable Translation"
+msgstr ""
+
+#: wordpress/jnews-front-translation/options/translation-setting.php:16
+msgid "Enable build in translation from JNews."
+msgstr ""
+
+#: wordpress/jnews-front-translation/options/translation.php:4
+msgid "Translation String"
+msgstr ""

@@ -1,0 +1,62 @@
+{
+  "content": [],
+  "settings":
+  {
+      "template": "default",
+      "system_colors": [
+      {
+          "_id": "primary",
+          "title": "Primary",
+          "color": "#0FB7EE"
+      },
+      {
+          "_id": "secondary",
+          "title": "Secondary",
+          "color": "#0E0F0F"
+      },
+      {
+          "_id": "text",
+          "title": "Text",
+          "color": "#313535"
+      },
+      {
+          "_id": "accent",
+          "title": "Accent",
+          "color": "#57CC99"
+      }],
+      "custom_colors": [],
+      "system_typography": [
+      {
+          "_id": "primary",
+          "title": "Primary",
+          "typography_typography": "custom",
+          "typography_font_weight": "600"
+      },
+      {
+          "_id": "secondary",
+          "title": "Secondary",
+          "typography_typography": "custom",
+          "typography_font_weight": "400"
+      },
+      {
+          "_id": "text",
+          "title": "Text",
+          "typography_typography": "custom",
+          "typography_font_weight": "400"
+      },
+      {
+          "_id": "accent",
+          "title": "Accent",
+          "typography_typography": "custom",
+          "typography_font_weight": "500"
+      }],
+      "custom_typography": [],
+      "default_generic_fonts": "Sans-serif",
+      "site_name": "EVNews",
+      "site_description": "Just another JNews - Premium News, Blog & Magazine WordPress Theme site",
+      "page_title_selector": "h1.entry-title",
+      "activeItemIndex": 1,
+      "viewport_md": 768,
+      "viewport_lg": 1025
+  }
+}

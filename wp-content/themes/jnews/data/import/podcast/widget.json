@@ -1,0 +1,91 @@
+{
+    "sidefeed": {
+        "nav_menu-1": {
+            "title": "Menu",
+            "nav_menu": "{{menu_location:sidefeed-navigation:id}}",
+            "second_title": "",
+            "header_url": "",
+            "header_type": "heading_8",
+            "header_background": "",
+            "header_text_color": "",
+            "widget_boxed": "0",
+            "widget_shadow": "0",
+            "widget_class": ""
+        },
+        "categories-3": {
+            "title": "",
+            "second_title": "",
+            "header_url": "",
+            "header_type": "heading_8",
+            "header_background": "",
+            "header_text_color": "",
+            "widget_boxed": "0",
+            "widget_shadow": "0",
+            "widget_class": ""
+        }
+    },
+    "sidefeed-footer": {
+        "jnews_module_element_ads-2": {
+            "ads_type": "image",
+            "ads_image": "{{image:hobbies1:id}}",
+            "ads_image_tablet": "{{image:hobbies1:id}}",
+            "ads_image_phone": "{{image:hobbies1:id}}",
+            "ads_image_link": "",
+            "ads_image_alt": "",
+            "ads_image_new_tab": "0",
+            "ads_image_normal_load": "0",
+            "google_publisher_id": "",
+            "google_slot_id": "",
+            "google_desktop": "auto",
+            "google_tab": "auto",
+            "google_phone": "auto",
+            "content": "",
+            "ads_bottom_text": "0",
+            "el_id": "",
+            "el_class": "",
+            "scheme": "normal",
+            "column_width": "auto"
+        },
+        "jnews_social-1": {
+            "title": "Follow Us",
+            "widgetstyle": "nobg",
+            "icon_color": "#293241",
+            "bg_color": "",
+            "verticalsocial": "0",
+            "align": "0",
+            "beforesocial": "",
+            "aftersocial": "",
+            "account": "%5B%7B%22social_icon%22:%22facebook%22,%22social_url%22:%22https:\/\/www.facebook.com\/jegtheme\/%22%7D,%7B%22social_icon%22:%22twitter%22,%22social_url%22:%22https:\/\/twitter.com\/jegtheme%22%7D,%7B%22social_icon%22:%22instagram%22,%22social_url%22:%22https:\/\/www.instagram.com\/jegtheme%22%7D,%7B%22social_icon%22:%22youtube%22,%22social_url%22:%22https:\/\/www.youtube.com\/channel\/UCiSEZYAicvipL95JrvISyIw%22%7D,%7B%22social_icon%22:%22vimeo%22,%22social_url%22:%22https:\/\/vimeo.com\/%22%7D%5D",
+            "second_title": "",
+            "header_url": "",
+            "header_type": "heading_8",
+            "header_background": "",
+            "header_text_color": "",
+            "widget_boxed": "0",
+            "widget_shadow": "0",
+            "widget_class": ""
+        }
+    },
+    "user-profile-sidebar": {
+        "jnews_module_element_ads-1": {
+            "ads_type": "image",
+            "ads_image": "{{image:ad_345x345:id}}",
+            "ads_image_tablet": "{{image:ad_345x345:id}}",
+            "ads_image_phone": "{{image:ad_345x345:id}}",
+            "ads_image_link": "",
+            "ads_image_alt": "",
+            "ads_image_new_tab": "0",
+            "google_publisher_id": "",
+            "google_slot_id": "",
+            "google_desktop": "auto",
+            "google_tab": "auto",
+            "google_phone": "auto",
+            "content": "",
+            "ads_bottom_text": "0",
+            "el_id": "",
+            "el_class": "",
+            "scheme": "normal",
+            "column_width": "auto"
+        }
+    }
+}

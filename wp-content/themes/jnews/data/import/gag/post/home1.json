@@ -1,0 +1,38 @@
+[
+  {
+    "id": "WmAdVHf",
+    "elType": "section",
+    "settings": {
+      "stretch_section": "section-stretched",
+      "css": ".vc_custom_1638950745962{margin-bottom: 40px !important;border-bottom-width: 1px !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}"
+    },
+    "elements": [
+      {
+        "id": "hUwHaj3",
+        "elType": "column",
+        "settings": { "_column_size": 100 },
+        "elements": [
+          {
+            "id": "Sf5ooaY",
+            "elType": "widget",
+            "settings": {
+              "compatible_column_notice": "",
+              "number_item": { "unit": "px", "size": 11 },
+              "number_post": { "unitwhen-people-talk-bullsht-all-the-time": "px", "size": 30 },
+              "exclude_post": "{{post:ge-is-just-a-number-nah-its-just-a-word:id}},{{post:you-dont-adopt-the-kitty-the-kitty-adopts-you:id}},{{post:a-frog-can-only-take-so-much-before-completely-losing-it:id}},{{post:when-people-talk-bullsht-all-the-time:id}}",
+              "border_style": "gradient",
+              "border_gradient_degree": { "unit": "px", "size": 180 },
+              "border_gradient_start_color": "#f12711",
+              "border_gradient_end_color": "#f5af19",
+              "show_title": "true"
+            },
+            "elements": [],
+            "widgetType": "jnews_element_webstories_elementor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

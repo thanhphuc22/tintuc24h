@@ -1,0 +1,186 @@
+p.form-row.jpw-save-payment-method {
+    padding-top: 10px;
+}
+
+li.jpw-saved-payment-methods-sources {
+    list-style: none;
+    padding: 15px 0px;
+}
+
+li.jpw-saved-payment-methods-new {
+    list-style: none;
+    padding: 15px 0px 0px 0px;
+}
+
+.stripe-info-message, 
+.stripe-info-message {
+    margin: 10px 0;
+    padding-top: 10px;
+    border-radius: 3px 3px 3px 3px;
+}
+
+.stripe-info-message .fa,
+.stripe-info-message .fa {
+    margin-right: 10px;
+}
+
+div#card-errors .stripe-error-message {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 3px 3px 3px 3px;
+    color: #D8000C;
+    background-color: #FFBABA;
+}
+
+div#card-errors .fa {
+    margin-right: 10px;
+}
+
+.payment_method_stripepaywall img {
+    width: 35px;
+}
+
+.payment_method_stripepaywall_sepa img {
+    width: 50px;
+}
+
+.payment_method_stripepaywall .stripe-card-element {
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.payment_method_stripepaywall .stripe-card-element {
+    background-color: #f6f9fc;
+  }
+  
+.payment_method_stripepaywall .stripe-card-element * {
+font-family: Inter UI, Open Sans, Segoe UI, sans-serif;
+font-size: 16px;
+font-weight: 500;
+}
+
+.payment_method_stripepaywall .stripe-card-element form {
+max-width: 496px !important;
+padding: 0 15px;
+}
+
+.payment_method_stripepaywall .stripe-card-element form > * + * {
+margin-top: 20px;
+}
+
+.payment_method_stripepaywall .stripe-card-element .container {
+background-color: #fff;
+box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
+border-radius: 4px;
+padding: 3px;
+}
+
+.payment_method_stripepaywall .stripe-card-element fieldset {
+border-style: none;
+padding: 5px;
+margin-left: -5px;
+margin-right: -5px;
+background: rgba(18, 91, 152, 0.05);
+border-radius: 8px;
+}
+
+.payment_method_stripepaywall .stripe-card-element fieldset legend {
+float: left;
+width: 100%;
+text-align: center;
+font-size: 13px;
+color: #8898aa;
+padding: 3px 10px 7px;
+}
+
+.payment_method_stripepaywall .stripe-card-element .card-only {
+display: block;
+}
+.payment_method_stripepaywall .stripe-card-element .payment-request-available {
+display: none;
+}
+
+.payment_method_stripepaywall .stripe-card-element fieldset legend + * {
+clear: both;
+}
+
+.payment_method_stripepaywall .stripe-card-element input, .payment_method_stripepaywall .stripe-card-element button {
+-webkit-appearance: none;
+-moz-appearance: none;
+appearance: none;
+outline: none;
+border-style: none;
+color: #fff;
+}
+
+.payment_method_stripepaywall .stripe-card-element input:-webkit-autofill {
+transition: background-color 100000000s;
+-webkit-animation: 1ms void-animation-out;
+}
+
+.payment_method_stripepaywall .stripe-card-element #example4-card {
+padding: 10px;
+margin-bottom: 2px;
+}
+
+.payment_method_stripepaywall .stripe-card-element input {
+-webkit-animation: 1ms void-animation-out;
+}
+
+.payment_method_stripepaywall .stripe-card-element input::-webkit-input-placeholder {
+color: #9bacc8;
+}
+
+.payment_method_stripepaywall .stripe-card-element input::-moz-placeholder {
+color: #9bacc8;
+}
+
+.payment_method_stripepaywall .stripe-card-element input:-ms-input-placeholder {
+color: #9bacc8;
+}
+
+.payment_method_stripepaywall .stripe-card-element button {
+display: block;
+width: 100%;
+height: 37px;
+background-color: #d782d9;
+border-radius: 2px;
+color: #fff;
+cursor: pointer;
+}
+
+.payment_method_stripepaywall .stripe-card-element button:active {
+background-color: #b76ac4;
+}
+
+.payment_method_stripepaywall .stripe-card-element .error svg .base {
+fill: #e25950;
+}
+
+.payment_method_stripepaywall .stripe-card-element .error svg .glyph {
+fill: #f6f9fc;
+}
+
+.payment_method_stripepaywall .stripe-card-element .error .message {
+color: #e25950;
+}
+
+.payment_method_stripepaywall .stripe-card-element .success .icon .border {
+stroke: #ffc7ee;
+}
+
+.payment_method_stripepaywall .stripe-card-element .success .icon .checkmark {
+stroke: #d782d9;
+}
+
+.payment_method_stripepaywall .stripe-card-element .success .title {
+color: #32325d;
+}
+
+.payment_method_stripepaywall .stripe-card-element .success .message {
+color: #8898aa;
+}
+
+.payment_method_stripepaywall .stripe-card-element .success .reset path {
+fill: #d782d9;
+}

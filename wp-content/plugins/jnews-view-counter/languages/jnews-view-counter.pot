@@ -1,0 +1,211 @@
+# Copyright (C) 2022 JNews View Counter
+# This file is distributed under the same license as the JNews View Counter package.
+msgid ""
+msgstr ""
+"Project-Id-Version: JNews View Counter\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Econdig: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Jegtheme <support@jeghteme.com>\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: JNews View Counter\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;jnews_print_translation;jnews_return_translation\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wordpress/jnews-view-counter/class.jnews-view-counter.php:825, wordpress/jnews-view-counter/class/class-dashboard.php:98, wordpress/jnews-view-counter/class/class-frontend.php:290
+msgid "Views"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/class-frontend.php:245
+msgid "%s view"
+msgid_plural "%s views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wordpress/jnews-view-counter/class/class-frontend.php:245
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wordpress/jnews-view-counter/class/class-helper.php:65, wordpress/jnews-view-counter/template/post-stats.php:13
+msgid "Today"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/class-helper.php:66
+msgid "Clear"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/class-template.php:216
+msgid "Post View Stats"
+msgstr ""
+
+#: wordpress/jnews-view-counter/template/post-stats-most-viewed.php:32, wordpress/jnews-view-counter/template/post-stats-trending-now.php:32
+msgid "Looks like your site's activity is a little low right now.<br>Spread the word and come back later!"
+msgstr ""
+
+#: wordpress/jnews-view-counter/template/post-stats-most-viewed.php:24, wordpress/jnews-view-counter/template/post-stats-trending-now.php:24
+msgid "View Post"
+msgstr ""
+
+#: wordpress/jnews-view-counter/template/post-stats.php:14
+msgid "24H"
+msgstr ""
+
+#: wordpress/jnews-view-counter/template/post-stats.php:15
+msgid "7D"
+msgstr ""
+
+#: wordpress/jnews-view-counter/template/post-stats.php:16
+msgid "30D"
+msgstr ""
+
+#: wordpress/jnews-view-counter/template/post-stats.php:17
+msgid "Custom"
+msgstr ""
+
+#: wordpress/jnews-view-counter/template/post-stats.php:29
+msgid "Time Range"
+msgstr ""
+
+#: wordpress/jnews-view-counter/template/post-stats.php:30
+msgid "Date Range"
+msgstr ""
+
+#: wordpress/jnews-view-counter/template/post-stats.php:44
+msgid "Minute(s)"
+msgstr ""
+
+#: wordpress/jnews-view-counter/template/post-stats.php:45
+msgid "Hour(s)"
+msgstr ""
+
+#: wordpress/jnews-view-counter/template/post-stats.php:46
+msgid "Day(s)"
+msgstr ""
+
+#: wordpress/jnews-view-counter/template/post-stats.php:62
+msgid "To"
+msgstr ""
+
+#: wordpress/jnews-view-counter/template/post-stats.php:74
+msgid "Most Viewed"
+msgstr ""
+
+#: wordpress/jnews-view-counter/template/post-stats.php:75
+msgid "Trending Now"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/options/class-options.php:74
+msgid "JNews : View Counter Setting"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/options/sections/view-counter-customizer.php:8
+msgid "Data Setting"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/options/sections/view-counter-customizer.php:17
+msgid "Limit Data"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/options/sections/view-counter-customizer.php:18
+msgid "Limit the view count data to reduce the database space usage. Total view count would be preserved however, the detailed view count information would be lost."
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/options/sections/view-counter-customizer.php:27
+msgid "Data Expiration"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/options/sections/view-counter-customizer.php:28
+msgid "Data older than the specified time frame ( days ) will be automatically discarded."
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/options/sections/view-counter-customizer.php:46
+msgid "View Setting"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/options/sections/view-counter-customizer.php:55
+msgid "Count Interval"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/options/sections/view-counter-customizer.php:56
+msgid "Enter time length"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/options/sections/view-counter-customizer.php:70
+msgid "Unit"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/options/sections/view-counter-customizer.php:71
+msgid "Enter time Unit"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/options/sections/view-counter-customizer.php:74
+msgid "minutes"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/options/sections/view-counter-customizer.php:75
+msgid "hours"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/options/sections/view-counter-customizer.php:76
+msgid "days"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/options/sections/view-counter-customizer.php:77
+msgid "weeks"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/options/sections/view-counter-customizer.php:78
+msgid "months"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/options/sections/view-counter-customizer.php:79
+msgid "years"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/options/sections/view-counter-customizer.php:89
+msgid "Strict Count"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/options/sections/view-counter-customizer.php:90
+msgid "Prevents counting the same visitor view within the View Count Interval that uses private browsing or clearing cookies"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/options/sections/view-counter-customizer.php:99
+msgid "Exclude Visitors"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/options/sections/view-counter-customizer.php:100
+msgid "Ignores view from the selected visitor type"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/options/sections/view-counter-customizer.php:103
+msgid "Robots"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/options/sections/view-counter-customizer.php:104
+msgid "Logged in users"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/options/sections/view-counter-customizer.php:105
+msgid "Guest"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/options/sections/view-counter-customizer.php:106
+msgid "Selected user roles"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/options/sections/view-counter-customizer.php:116
+msgid "Exclude Roles"
+msgstr ""
+
+#: wordpress/jnews-view-counter/class/options/sections/view-counter-customizer.php:117
+msgid "Ignores view from the selected user roles. Requires `Selected user roles` to be included in `Exclude Visitors`."
+msgstr ""

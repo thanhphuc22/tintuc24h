@@ -1,0 +1,302 @@
+[
+  {
+    "id": "0e3d189",
+    "elType": "section",
+    "settings": {
+      "gap": "no",
+      "height": "min-height",
+      "custom_height": { "unit": "px", "size": 540, "sizes": [] },
+      "structure": "20",
+      "background_background": "classic",
+      "background_image": { "url": "{{image:audiomedia3:url:full}}", "id": "{{image:audiomedia3:id}}" },
+      "background_position": "initial",
+      "background_ypos": { "unit": "%", "size": 80, "sizes": [] },
+      "background_size": "cover",
+      "margin": { "unit": "px", "top": "-30", "right": 0, "bottom": "0", "left": 0, "isLinked": false },
+      "background_slideshow_gallery": [
+        { "id": "{{image:audiomedia1:id}}", "url": "{{image:audiomedia1:url:full}}" },
+        { "id": "{{image:audiomedia2:id}}", "url": "{{image:audiomedia2:url:full}}" },
+        { "id": "{{image:audiomedia3:id}}", "url": "{{image:audiomedia3:url:full}}" },
+        { "id": "{{image:audiomedia4:id}}", "url": "{{image:audiomedia4:url:full}}" }
+      ],
+      "background_slideshow_background_size": "cover",
+      "background_slideshow_background_position": "center center",
+      "background_slideshow_ken_burns": "yes",
+      "background_overlay_background": "classic",
+      "background_overlay_color": "#000000",
+      "background_overlay_opacity": { "unit": "px", "size": 0.2, "sizes": [] },
+      "custom_height_tablet": { "unit": "px", "size": 0, "sizes": [] },
+      "background_position_tablet": "bottom center",
+      "margin_tablet": { "unit": "px", "top": "-30", "right": 0, "bottom": "0", "left": 0, "isLinked": false },
+      "padding_tablet": { "unit": "px", "top": "60", "right": "20", "bottom": "60", "left": "20", "isLinked": false }
+    },
+    "elements": [
+      {
+        "id": "2616eda",
+        "elType": "column",
+        "settings": { "_column_size": 50, "_inline_size": 45, "_inline_size_tablet": 60 },
+        "elements": [
+          {
+            "id": "004cfbc",
+            "elType": "widget",
+            "settings": { "title": "Podcast", "title_color": "#42F2F7", "typography_typography": "custom", "typography_font_family": "IBM Plex Sans", "typography_font_size": { "unit": "px", "size": 14, "sizes": [] }, "typography_font_weight": "600", "typography_text_transform": "uppercase", "typography_letter_spacing": { "unit": "px", "size": 1, "sizes": [] }, "header_size": "h3", "align_mobile": "center", "typography_font_size_tablet": { "unit": "px", "size": 12, "sizes": [] } },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "18007db",
+            "elType": "widget",
+            "settings": {
+              "title": "Discover New Knowledge Anywhere & Anytime!",
+              "title_color": "#FFFFFF",
+              "__globals__": { "typography_typography": "" },
+              "typography_typography": "custom",
+              "typography_font_family": "Work Sans",
+              "typography_font_size": { "unit": "px", "size": 40, "sizes": [] },
+              "typography_font_weight": "700",
+              "header_size": "h1",
+              "align_mobile": "center",
+              "typography_font_size_tablet": { "unit": "px", "size": 32, "sizes": [] },
+              "typography_font_size_mobile": { "unit": "px", "size": 26, "sizes": [] },
+              "typography_line_height_mobile": { "unit": "em", "size": 1.2, "sizes": [] }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "bd912c8",
+            "elType": "widget",
+            "settings": {
+              "text_color": "#FFFFFF",
+              "typography_typography": "custom",
+              "typography_font_weight": "400",
+              "typography_font_size": { "unit": "px", "size": 17, "sizes": [] },
+              "typography_line_height": { "unit": "em", "size": 1.5, "sizes": [] },
+              "_margin": { "unit": "em", "top": "0", "right": "0", "bottom": "-1", "left": "0", "isLinked": false },
+              "editor": "<p>Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.</p>",
+              "typography_font_family": "Libre Franklin",
+              "__globals__": { "typography_typography": "" },
+              "align_mobile": "center",
+              "typography_font_size_tablet": { "unit": "px", "size": 14, "sizes": [] },
+              "typography_font_size_mobile": { "unit": "px", "size": 12, "sizes": [] }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "e460040",
+            "elType": "widget",
+            "settings": {
+              "text": "Listen now",
+              "size": "md",
+              "selected_icon": { "value": "fas fa-play", "library": "fa-solid" },
+              "icon_indent": { "unit": "px", "size": 12, "sizes": [] },
+              "background_color": "#0EC04D",
+              "text_padding": { "unit": "px", "top": "18", "right": "28", "bottom": "18", "left": "28", "isLinked": false },
+              "__globals__": { "typography_typography": "" },
+              "link": { "url": "#featured-podcast", "is_external": "", "nofollow": "", "custom_attributes": "" },
+              "align_mobile": "justify",
+              "typography_typography": "custom",
+              "typography_font_family": "Roboto",
+              "typography_font_size_mobile": { "unit": "px", "size": 14, "sizes": [] },
+              "typography_font_weight": "500",
+              "text_padding_tablet": { "unit": "px", "top": "14", "right": "24", "bottom": "14", "left": "24", "isLinked": false }
+            },
+            "elements": [],
+            "widgetType": "button"
+          }
+        ],
+        "isInner": false
+      },
+      { "id": "e3fc059", "elType": "column", "settings": { "_column_size": 50, "_inline_size": 55, "_inline_size_tablet": 40 }, "elements": [], "isInner": false }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "b3f973b",
+    "elType": "section",
+    "settings": { "gap": "no", "content_position": "middle", "structure": "20", "border_width": { "unit": "px", "top": "0", "right": "0", "bottom": "1", "left": "0", "isLinked": false }, "border_color": "#EEEEEE", "padding": { "unit": "px", "top": "15", "right": "0", "bottom": "15", "left": "0", "isLinked": false }, "padding_tablet": { "unit": "px", "top": "8", "right": "20", "bottom": "8", "left": "20", "isLinked": false } },
+    "elements": [
+      {
+        "id": "48fab49",
+        "elType": "column",
+        "settings": { "_column_size": 50, "_inline_size": 70, "_inline_size_tablet": 76, "align_mobile": "center" },
+        "elements": [
+          {
+            "id": "73dfe66",
+            "elType": "widget",
+            "settings": { "editor": "Listen also on other platforms:", "_margin": { "unit": "px", "top": "0", "right": "15", "bottom": "0", "left": "0", "isLinked": false }, "_element_width": "auto", "__globals__": { "text_color": "globals/colors?id=text", "typography_typography": "" }, "text_color": "#444444", "typography_typography": "custom", "typography_font_size_tablet": { "unit": "px", "size": 12, "sizes": [] }, "typography_font_weight": "400" },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "a48fb5a",
+            "elType": "widget",
+            "settings": {
+              "view": "inline",
+              "icon_list": [
+                { "text": "Spotify", "selected_icon": { "value": "fab fa-spotify", "library": "fa-brands" }, "_id": "5f5df58" },
+                { "text": "Apple Podcast", "selected_icon": { "value": "fas fa-podcast", "library": "fa-solid" }, "_id": "d37c0ee" },
+                { "_id": "d5da6f8", "text": "Google Podcast", "selected_icon": { "value": "fab fa-google", "library": "fa-brands" } }
+              ],
+              "space_between": { "unit": "px", "size": 20, "sizes": [] },
+              "icon_size": { "unit": "px", "size": 16, "sizes": [] },
+              "text_indent": { "unit": "px", "size": 5, "sizes": [] },
+              "_element_width": "auto",
+              "__globals__": { "text_color": "globals/colors?id=text", "icon_color": "globals/colors?id=text", "icon_typography_typography": "" },
+              "space_between_mobile": { "unit": "px", "size": 10, "sizes": [] },
+              "icon_color": "#444444",
+              "icon_size_tablet": { "unit": "px", "size": 12, "sizes": [] },
+              "icon_size_mobile": { "unit": "px", "size": 14, "sizes": [] },
+              "text_color": "#444444",
+              "icon_typography_typography": "custom",
+              "icon_typography_font_size_tablet": { "unit": "px", "size": 12, "sizes": [] },
+              "icon_typography_font_size_mobile": { "unit": "px", "size": 0, "sizes": [] },
+              "icon_typography_font_weight": "400",
+              "icon_typography_line_height_mobile": { "unit": "em", "size": 1, "sizes": [] }
+            },
+            "elements": [],
+            "widgetType": "icon-list"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "3a346d8",
+        "elType": "column",
+        "settings": { "_column_size": 50, "_inline_size": 30, "_inline_size_tablet": 24, "hide_mobile": "hidden-phone" },
+        "elements": [
+          {
+            "id": "bc5d4b3",
+            "elType": "widget",
+            "settings": {
+              "view": "inline",
+              "icon_list": [{ "text": "Subscribe via RSS", "selected_icon": { "value": "fas fa-rss", "library": "fa-solid" }, "_id": "5f5df58" }],
+              "space_between": { "unit": "px", "size": 20, "sizes": [] },
+              "icon_align": "right",
+              "icon_size": { "unit": "px", "size": 16, "sizes": [] },
+              "text_indent": { "unit": "px", "size": 8, "sizes": [] },
+              "__globals__": { "text_color": "globals/colors?id=secondary", "icon_color": "globals/colors?id=text", "icon_typography_typography": "" },
+              "icon_color": "#444444",
+              "icon_size_tablet": { "unit": "px", "size": 12, "sizes": [] },
+              "text_color": "#0A0606",
+              "icon_typography_typography": "custom",
+              "icon_typography_font_size_tablet": { "unit": "px", "size": 12, "sizes": [] },
+              "icon_typography_font_weight": "400"
+            },
+            "elements": [],
+            "widgetType": "icon-list"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "da62ec4",
+    "elType": "section",
+    "settings": { "gap": "no", "background_background": "classic", "background_color": "#E0FEFF", "padding": { "unit": "px", "top": "30", "right": "0", "bottom": "0", "left": "0", "isLinked": false }, "padding_tablet": { "unit": "px", "top": "40", "right": "20", "bottom": "0", "left": "20", "isLinked": false } },
+    "elements": [
+      {
+        "id": "b451d6c",
+        "elType": "column",
+        "settings": { "_column_size": 100, "_inline_size": null },
+        "elements": [
+          { "id": "c412d7e", "elType": "widget", "settings": { "anchor": "featured-podcast" }, "elements": [], "widgetType": "menu-anchor" },
+          { "id": "d27c1c8", "elType": "widget", "settings": { "first_title": "Featured Podcast", "header_type": "heading_8", "podcast_base_on": "popular_post", "unique_content_podcast": "unique1", "_margin_tablet": { "unit": "px", "top": "0", "right": "0", "bottom": "-20", "left": "0", "isLinked": false } }, "elements": [], "widgetType": "jnews_podcast_blockpodcast1_elementor" }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "5441f15",
+    "elType": "section",
+    "settings": { "gap": "no", "padding": { "unit": "px", "top": "30", "right": "0", "bottom": "0", "left": "0", "isLinked": false }, "padding_tablet": { "unit": "px", "top": "20", "right": "20", "bottom": "20", "left": "20", "isLinked": true } },
+    "elements": [
+      {
+        "id": "90a021b",
+        "elType": "column",
+        "settings": { "_column_size": 100, "_inline_size": null },
+        "elements": [{ "id": "34a9794", "elType": "widget", "settings": { "first_title": "Popular Podcast", "header_type": "heading_8", "excerpt_ellipsis": "...", "pagination_number_post": { "unit": "px", "size": 4, "sizes": [] }, "unique_content_podcast": "unique1", "_margin_tablet": { "unit": "px", "top": "0", "right": "0", "bottom": "-20", "left": "0", "isLinked": false } }, "elements": [], "widgetType": "jnews_podcast_blockpodcast2_elementor" }],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "032bc94",
+    "elType": "section",
+    "settings": { "gap": "no" },
+    "elements": [
+      {
+        "id": "8cfa59c",
+        "elType": "column",
+        "settings": { "_column_size": 100, "_inline_size": null },
+        "elements": [
+          {
+            "id": "7d590fe",
+            "elType": "section",
+            "settings": { "gap": "no", "structure": "20", "background_background": "classic", "background_color": "#FFD166" },
+            "elements": [
+              {
+                "id": "b407788",
+                "elType": "column",
+                "settings": { "_column_size": 50, "_inline_size": 52, "padding": { "unit": "px", "top": "40", "right": "60", "bottom": "40", "left": "60", "isLinked": false }, "content_position": "center", "padding_tablet": { "unit": "px", "top": "30", "right": "20", "bottom": "30", "left": "20", "isLinked": false } },
+                "elements": [
+                  { "id": "a4996c9", "elType": "widget", "settings": { "title": "Join Our Newsletter", "title_color": "#2D2D2D", "typography_typography": "custom", "typography_font_family": "Work Sans", "typography_font_size": { "unit": "px", "size": 40, "sizes": [] }, "typography_font_weight": "700", "__globals__": { "typography_typography": "" }, "align_mobile": "center", "typography_font_size_tablet": { "unit": "px", "size": 28, "sizes": [] } }, "elements": [], "widgetType": "heading" },
+                  { "id": "22306bb", "elType": "widget", "settings": { "editor": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country.", "text_color": "#444444", "__globals__": { "typography_typography": "globals/typography?id=text" }, "align_mobile": "center" }, "elements": [], "widgetType": "text-editor" },
+                  { "id": "52a8469", "elType": "widget", "settings": { "mf_form_id": "1440***1611647079171" }, "elements": [], "widgetType": "metform" }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "5acc892",
+                "elType": "column",
+                "settings": { "_column_size": 50, "_inline_size": 48, "background_background": "classic", "padding": { "unit": "px", "top": "40", "right": "30", "bottom": "0", "left": "0", "isLinked": false }, "content_position_tablet": "bottom", "padding_tablet": { "unit": "px", "top": "0", "right": "0", "bottom": "0", "left": "0", "isLinked": true } },
+                "elements": [{ "id": "58f5081", "elType": "widget", "settings": { "image": { "url": "{{image:newsletter:url:full}}", "id": "{{image:newsletter:id}}" }, "align": "right", "width": { "unit": "px", "size": 459, "sizes": [] } }, "elements": [], "widgetType": "image" }],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "3fcef55",
+    "elType": "section",
+    "settings": { "gap": "no", "padding": { "unit": "px", "top": "50", "right": "0", "bottom": "0", "left": "0", "isLinked": false }, "padding_tablet": { "unit": "px", "top": "20", "right": "20", "bottom": "20", "left": "20", "isLinked": true } },
+    "elements": [
+      {
+        "id": "cd1ebf5",
+        "elType": "column",
+        "settings": { "_column_size": 100, "_inline_size": null },
+        "elements": [
+          { "id": "6e33733", "elType": "widget", "settings": { "number_category": { "unit": "px", "size": 10, "sizes": [] }, "first_title": "Discover more", "header_type": "heading_8", "_margin_tablet": { "unit": "px", "top": "0", "right": "0", "bottom": "-20", "left": "0", "isLinked": false } }, "elements": [], "widgetType": "jnews_podcast_category_elementor" },
+          {
+            "id": "5297bc8",
+            "elType": "widget",
+            "settings": {
+              "ads_type": "image",
+              "ads_image": { "id": "{{image:ad_1140x160:id}}", "url": "{{image:ad_1140x160:url:full}}" },
+              "ads_image_tablet": { "id": "{{image:ad_1140x160:id}}", "url": "{{image:ad_1140x160:url:full}}" },
+              "ads_image_phone": { "id": "{{image:ad_1140x160:id}}", "url": "{{image:ad_1140x160:url:full}}" },
+              "ads_image_link": "#",
+              "_margin": { "unit": "px", "top": "0", "right": "0", "bottom": "-20", "left": "0", "isLinked": false }
+            },
+            "elements": [],
+            "widgetType": "jnews_element_ads_elementor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]
